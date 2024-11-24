@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/pascals-triangle/
+# https://leetcode.com/problems/pascals-triangle-ii/
+
 from typing import List
 
 class Solution:
